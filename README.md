@@ -7,4 +7,4 @@ Self-taught data science through "Statistics for Business and Economics", "R in 
 
 ## Statistics for Business and Economic
 
-* [Chapter 1](https://github.com/luludada/Data-Science/blob/master/Statistics%20for%20Business%20and%20Economics/chapter%201.md)
+* [Chapter 1](./Statistics for Business and Economics/Chapter 1)

@@ -97,6 +97,12 @@ the element.
 
 * Data Mining: The process of using procedures from statistics and computer science to extract useful information from extremely large databases.
 
+## Supplementary Exercises
+
+
+
+
+
 
 
 
