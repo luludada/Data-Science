@@ -1,7 +1,7 @@
 # Chapter 1: Data and Statistics
 ======================
 
-### 1.1 Applications in Business and Economics
+## 1.1 Applications in Business and Economics
 
 * Accounting: Public accounting firms use statistical sampling procedures when conducting audits for their
 clients.
@@ -17,9 +17,9 @@ in production.
 * Economics: Economists frequently provide forecasts about the future of the economy or some aspect of it.
 They use a variety of statistical information in making such forecasts.
 
-### 1.2 Data
+## 1.2 Data
 
-## 1.2.1 Element, Variable Observation
+### 1.2.1 Element, Variable Observation
 
 * Element: The entities on which data are collected.
 
@@ -28,7 +28,7 @@ They use a variety of statistical information in making such forecasts.
 * Observation: Measurements collected on each variable for every element in a study provide the data. The
 set of measurements obtained for a particular element
 
-## 1.2.2 Scales of Measurement
+### 1.2.2 Scales of Measurement
 
 * Nominal scale: When the data for a variable consist of labels or names used to identify an attribute of
 the element.
@@ -39,7 +39,7 @@ the element.
 
 * Ratio scale: if the data have all the properties of interval data and the ratio of two values is meaningful.
 
-## 1.2.3 Categorical and Quantitative Data
+### 1.2.3 Categorical and Quantitative Data
 
 * Categorical data: Data that can be grouped by specific categories(Categorical data use either the nominal or ordinal scale of measurement.)
 
@@ -51,33 +51,33 @@ the element.
 
 * Quantitative variable: A variable with quantitative data
 
-## 1.2.4 Cross-Sectional and Time Series Data
+### 1.2.4 Cross-Sectional and Time Series Data
 
 * Cross-sectional data: data collected at the same or approximately the same point in time.
 
 * Time series data: data collected over several time periods.
 
-### 1.3 Data Sources
+## 1.3 Data Sources
 
-## 1.3.1 Existing Sources
+### 1.3.1 Existing Sources
 
 * In some cases, data needed for a particular application already exist.
 
-## 1.3.2 Statistical Studies
+### 1.3.2 Statistical Studies
 
 * Sometimes the data needed for a particular application are not available through existing sources.
 
 * In an experimental study, a variable of interest is first identified. Then one or more other variables are identified and controlled so that data can be obtained about how they influence the variable of interest.
 
-## 1.3.3 Data Acquisition Errors
+### 1.3.3 Data Acquisition Errors
 
 * Be aware of the possibility of data errors in statistical studies through acquiring accurate data can help ensure reliable and valuable decision-making information.
 
-### 1.4 Descriptive Statistics
+## 1.4 Descriptive Statistics
 
 * Descriptive statistics: The summaries of data, which may be tabular, graphical, or numerical. 
 
-### 1.5 Statistical Inference
+## 1.5 Statistical Inference
 
 * Population: The set of all elements of interest in a particular study.
 
@@ -89,11 +89,11 @@ the element.
 
 * Statistical inference: The process of using data obtained from a sample to make estimates or test hypotheses about the characteristics of a population.
 
-### 1.6 Computers and Statistical Analysis
+## 1.6 Computers and Statistical Analysis
 
 * Minitab and StatTools as the major tool for this book. 
 
-### 1.7 Data Mining
+## 1.7 Data Mining
 
 * Data Mining: The process of using procedures from statistics and computer science to extract useful information from extremely large databases.
 
