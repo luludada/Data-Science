@@ -45,6 +45,93 @@ the element.
 
 * Quantitative data: Data that use numeric values to indicate how much or how many.(Quantitative data are obtained using either the interval or ratio scale of measurement.)
 
+* The statistical analysis appropriate for a particular variable depends upon whether the variable is categorical or quantitative.
+
+* Categorical variable: A variable with categorical data.
+
+* Quantitative variable: A variable with quantitative data
+
+## 1.2.4 Cross-Sectional and Time Series Data
+
+* Cross-sectional data: data collected at the same or approximately the same point in time.
+
+* Time series data: data collected over several time periods.
+
+### 1.3 Data Sources
+
+## 1.3.1 Existing Sources
+
+* In some cases, data needed for a particular application already exist.
+
+## 1.3.2 Statistical Studies
+
+* Sometimes the data needed for a particular application are not available through existing sources.
+
+* In an experimental study, a variable of interest is first identified. Then one or more other variables are identified and controlled so that data can be obtained about how they influence the variable of interest.
+
+## 1.3.3 Data Acquisition Errors
+
+* Be aware of the possibility of data errors in statistical studies through acquiring accurate data can help ensure reliable and valuable decision-making information.
+
+### 1.4 Descriptive Statistics
+
+* Descriptive statistics: The summaries of data, which may be tabular, graphical, or numerical. 
+
+### 1.5 Statistical Inference
+
+* Population: The set of all elements of interest in a particular study.
+
+* Sample: A subset of the population.
+
+* Census: The process of conducting a survey to collect data for the entire population
+
+* Sample survey: The process of conducting a survey to collect data
+
+* Statistical inference: The process of using data obtained from a sample to make estimates or test hypotheses about the characteristics of a population.
+
+### 1.6 Computers and Statistical Analysis
+
+* Minitab and StatTools as the major tool for this book. 
+
+### 1.7 Data Mining
+
+* Data Mining: The process of using procedures from statistics and computer science to extract useful information from extremely large databases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
