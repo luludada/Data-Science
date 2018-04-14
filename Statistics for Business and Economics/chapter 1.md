@@ -22,9 +22,6 @@ They use a variety of statistical information in making such forecasts.
 * Elements: The entities on which data are collected.
 
 * Variable: A characteristic of interest for the elements.
-  * Fund type: The type of mutual fund, labeled DE (Domestic Equity), IE (International
-Equity), and FI (Fixed Income)
-  * Net Asset Value ($): The closing price per share on December 31, 2007
 
 * Observation: Measurements collected on each variable for every element in a study provide the data. The
 set of measurements obtained for a particular element
