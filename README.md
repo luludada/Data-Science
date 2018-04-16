@@ -13,9 +13,9 @@ Self-taught data science through "Statistics for Business and Economics", "R in 
 
 ## Books
 
-* [Statistics for Business and Economics](#Statistics for Business and Economics)
+* Statistics for Business and Economics
 
-* [R in Action](#R in Action)
+* R in Action
 
 ## Statistics for Business and Economics
 
