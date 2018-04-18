@@ -11,6 +11,8 @@ Self-taught data science through "Statistics for Business and Economics", "R in 
 
 * 04/15/2018, Finished Statistics for Business and Economic Chapter 1 summary and supplementary exercises.
 
+* 04/17/2018, Learned Python introduction from DataCamp. Finished the first chapter. 
+ 
 ## Books
 
 * Statistics for Business and Economics
